@@ -1,0 +1,47 @@
+ ##  GIT AND GUTHUB Questions Covered:
+🔹 Question 1: What is Git, and why is it used?
+🔹 Question 2: What is the difference between Git and GitHub?
+🔹 Question 3: What is a repository in Git?
+🔹 Question 4: How do you create a new Git repository?
+🔹 Question 5: Explain the difference between a Git commit and a Git push.
+🔹 Question 6: What is a Git branch, and why is it used?
+🔹 Question 7: How do you create and switch between Git branches?
+🔹 Question 8: What is a Git merge, and how does it work?
+🔹 Question 9: Explain the purpose of a Git pull request (PR).
+🔹 Question 10: What is Git fork, and how is it used in GitHub?
+🔹 Question 11: What are Git tags, and why are they used?
+🔹 Question 12: How do you revert a commit in Git?
+🔹 Question 13: Explain the concept of Git remote and remote repositories.
+🔹 Question 14: How do you resolve merge conflicts in Git?
+🔹 Question 15: What is Git rebase, and when should it be used?
+🔹 Question 16: What is branching stategies?
+🔹 Question 17: Diff between git fetch vs git pull
+🔹 Question 18: Diff between git merge VS git rebase
+🔹 Question 19: Diff between git clone vs fork.
+🔹 Question 20: what is git cherry-pick ?
+🔹 Question 21: what is git stash ?
+🔹 Question 21: what is git .gitignore ?
+
+##  GITHUB SCENARIOS BASED Questions Covered:
+🔹 Question 1: You're working on a team project, and multiple developers need to collaborate on new features simultaneously. How would you organize branches in the repository to facilitate parallel development and minimize conflicts?
+🔹 Question 2: You've submitted a pull request for review, and a team member has requested changes. How would you address their feedback and update the pull request accordingly?
+🔹 Question 12: You're migrating a repository from one GitHub account to another or transferring ownership to a different user or organization. How would you transfer the repository while preserving its commit history, issues, and pull requests?
+
+ ##  DOCKER Questions Covered:
+🔹 Question 1: What is Docker?
+🔹 Question 2: Explain the difference between a container and a virtual machine (VM).
+🔹 Question 3: What is a Docker image?
+🔹 Question 4: Explain the role of a Docker file?
+🔹 Question 5: What is Docker Compose, and how is it used?
+🔹 Question 6: Explain the concept of Docker Swarm?
+🔹 Question 7: What is the difference between Docker Swarm and Kubernetes?
+🔹 Question 8: How do you share data between Docker containers?
+🔹 Question 9: What is Docker Hub, and why is it used?
+🔹 Question 10: Explain the concept of Docker networking.
+🔹 Question 11: What is Docker Swarm mode, and how do you initialize a Swarm?
+🔹 Question 12: Explain the purpose of Docker volumes ?
+🔹 Question 13: How do you monitor Docker containers and services?
+🔹 Question 14: What are Docker labels, and how are they used?
+🔹 Question 15: Explain the concept of Docker security.
+🔹 Question 16: Diff between CMD VS ENTRYPOINT ?
+🔹 Question 17: what are the network drivers in docker ?
